@@ -9,7 +9,6 @@
     "seed": "sqlite3 db/election.db < db/seeds.sql",
     "db": "sqlite3 db/election.db",
     "start": "node server.js"
-
   },
   "repository": {
     "type": "git",
